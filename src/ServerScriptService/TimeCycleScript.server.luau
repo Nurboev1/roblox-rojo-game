@@ -1,0 +1,1 @@
+-- Lighting and fog are handled by DayNightCycle.server.luau.

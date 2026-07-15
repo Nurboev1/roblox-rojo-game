@@ -1,0 +1,91 @@
+{
+  "name": "roblox-rojo-game",
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "$className": "Workspace",
+      "$path": "src/Workspace"
+    },
+
+    "Players": {
+      "$className": "Players"
+    },
+
+    "Lighting": {
+      "$className": "Lighting"
+    },
+
+    "MaterialService": {
+      "$className": "MaterialService"
+    },
+
+    "ReplicatedFirst": {
+      "$className": "ReplicatedFirst",
+      "$path": "src/ReplicatedFirst"
+    },
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/ServerScriptService"
+    },
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src/ServerStorage"
+    },
+
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$path": "src/StarterGui"
+    },
+
+    "StarterPack": {
+      "$className": "StarterPack"
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$properties": {
+        "CameraMode": "LockFirstPerson"
+      },
+      "StarterCharacterScripts": {
+        "$className": "StarterCharacterScripts",
+        "$path": "src/StarterPlayer/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    },
+
+    "Teams": {
+      "$className": "Teams"
+    },
+
+    "SoundService": {
+      "$className": "SoundService"
+    },
+
+    "TextChatService": {
+      "$className": "TextChatService"
+    },
+
+    "Chat": {
+      "$className": "Chat"
+    },
+
+    "LocalizationService": {
+      "$className": "LocalizationService"
+    },
+
+    "TestService": {
+      "$className": "TestService"
+    }
+  }
+}

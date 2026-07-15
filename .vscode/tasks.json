@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Rojo: Serve",
+      "type": "shell",
+      "command": "./tools/bin/rojo serve",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
