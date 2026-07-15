@@ -29,3 +29,4 @@ Keyin Roblox Studio'da Rojo pluginni ochib, `localhost` serverga ulan.
 - Server scripts: `src/ServerScriptService/*.server.luau`
 - Client scripts: `src/StarterPlayer/StarterPlayerScripts/*.client.luau`
 - Models: `*.rbxm`
+# roblox-rojo-game
